@@ -1,0 +1,28 @@
+{
+  "name": "jsnotepad",
+  "version": "1.0.0",
+  "description": "记事本",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.1.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-eslint": "^22.0.0",
+    "grunt-htmlhint": "^0.9.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanyuanbin1313/jsnotepad.git"
+  },
+  "author": "gyb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guanyuanbin1313/jsnotepad/issues"
+  },
+  "homepage": "https://github.com/guanyuanbin1313/jsnotepad#readme"
+}
